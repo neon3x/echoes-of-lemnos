@@ -1,2 +1,0 @@
-# echoes-of-lemnos
-THANOS WORLD UTS FARMING GAME PROJECT
