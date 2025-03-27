@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "echoes-of-lemnos.sln"
+    "dotnet.defaultSolution": "Echoes of Lemnos.sln"
 }
