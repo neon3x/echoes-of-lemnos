@@ -11,8 +11,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - World Objects
+  - Grid Blockers
   - 
   - 
   - 
@@ -39,13 +39,16 @@ TagManager:
   - 
   m_SortingLayers:
   - name: Ground
-    uniqueID: 2913721957
+    uniqueID: 3980865097
     locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
   - name: Player
-    uniqueID: 2591303127
+    uniqueID: 4045604251
+    locked: 0
+  - name: Crops
+    uniqueID: 3093829015
     locked: 0
   m_RenderingLayers:
   - Default
